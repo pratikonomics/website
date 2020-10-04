@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "Hi I'm Pratik!"
+baseURL = ""
+title   = "Pratik Daga"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -106,7 +106,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "pratik daga"
+    logoText     = "cd ~"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
